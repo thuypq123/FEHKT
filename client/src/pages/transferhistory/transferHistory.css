@@ -1,0 +1,12 @@
+.transferForm{
+    margin-bottom: 20px;
+}
+
+.btnTransfer{
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+.btnTransfer:hover{
+    color: tomato;
+}
